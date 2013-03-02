@@ -1,0 +1,17 @@
+				final long start = System.currentTimeMillis();
+//				for (int i = 0; i < 10000; i++) {
+//					aspect.handleAspect();					
+//				}
+				
+				for (int i = 0; i < 10000; i++) {
+					java.lang.System.out.println( new Date() );					
+				}
+				
+				
+				final long diff = System.currentTimeMillis() - start;
+				System.out.println("[js.sysout = " + diff + "]");
+				
+[Result]:
+--------------------------------------------				
+JS-Version: 324
+Java-Version: 144

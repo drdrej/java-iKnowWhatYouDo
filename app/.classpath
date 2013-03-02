@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/compile/tools.jar" sourcepath="C:/Program Files/Java/jdk1.6.0_20/src.zip"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dependencies"/>
+	<classpathentry kind="lib" path="lib/runtime/parboiled4j-0.9.9.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
